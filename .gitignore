@@ -1,0 +1,7 @@
+.DS_Store
+.Rhistory
+.RData
+Rplots.pdf
+results/
+longneckPetra.xlsx
+*.xlsx
