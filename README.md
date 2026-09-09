@@ -1,6 +1,13 @@
 # Analysis code — Prognostic validity of Disability and Pain Intensity by clinical examination at Three-Month Follow-Up in Participants with Acute Neck Pain
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22673331.svg)](https://doi.org/10.5281/zenodo.22673331)
+
 R code for all analyses reported in the manuscript (working title above).
+
+## Citation
+
+Archived on Zenodo. Concept DOI (all versions): https://doi.org/10.5281/zenodo.22673331
+Version v1.0.0 DOI: https://doi.org/10.5281/zenodo.22673332
 
 ## Contents
 
