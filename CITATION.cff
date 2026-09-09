@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Analysis code: Prognostic validity of disability and pain intensity by clinical examination at three-month follow-up in participants with acute neck pain"
+type: software
+authors:
+  - family-names: Degenfellner
+    given-names: "Jürgen"
+    orcid: "https://orcid.org/0000-0001-6886-4583"
+    affiliation: "Zurich University of Applied Sciences (ZHAW), School of Health Professions, Institute of Physiotherapy, Winterthur, Switzerland"
+repository-code: "https://github.com/jdegenfellner/prognostic-validity-acute-neck-pain-code"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-09
+keywords:
+  - acute neck pain
+  - prognostic model
+  - best-subset regression
+  - bootstrap validation
+  - R
+abstract: >-
+  R code for all analyses reported in the manuscript "Prognostic validity of
+  Disability and Pain Intensity by clinical examination at Three-Month
+  Follow-Up in Participants with Acute Neck Pain: A Prospective Cohort Study"
+  (Ernst, Degenfellner, Gmünder, Morf, Reicherzer, Hotz Boendermaker; ZHAW).
+  Includes variable derivation, missingness handling, kNN imputation,
+  best-subset regression with BIC selection, and bootstrap internal
+  validation. Individual participant data are not included.
